@@ -1,0 +1,5 @@
+{
+  "name": "City Metro Voice Assistant",
+  "description": "Official digital concierge for City Metro, providing real-time transit information for Lego City County.",
+  "requestFramePermissions": ["microphone"]
+}
